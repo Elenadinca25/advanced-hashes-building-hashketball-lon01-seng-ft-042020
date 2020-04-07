@@ -1,6 +1,6 @@
 # Write your code here!
 def game_hash {
-  away: { team_name: 'Charlotte Hornets',
+  away: { team_name: "Charlotte Hornets",
     colors: %w[Turquoise Purple],
     players: [
        { player_name: "Jeff Adrien",
