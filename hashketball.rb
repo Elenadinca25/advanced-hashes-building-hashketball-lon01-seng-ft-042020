@@ -19,7 +19,7 @@ def game_hash
           points: 12,
           rebounds: 4,
           assists: 7,
-          steal: 22,
+          steals: 22,
           blocks: 15,
           slam_dunks: 10 },
       { player_name: 'DeSagna Diop',
