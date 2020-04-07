@@ -49,7 +49,7 @@ def game_hash {
         blocks: 5,
         slam_dunks: 12 }
     ]
-  }
+  },
   home: { team_name: "Brooklyn Nets",
     colors: %w[ Black White],
     players: [
