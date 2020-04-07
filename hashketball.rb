@@ -50,8 +50,7 @@ def game_hash {
         slam_dunks: 12 }
     ]
   }
-  home: {
-    team_name: "Brooklyn Nets",
+  home: { team_name: "Brooklyn Nets",
     colors: %w[ Black White],
     players: [
   { player_name: "Alan Anderson",
